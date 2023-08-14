@@ -1,0 +1,12 @@
+.glass1 {
+  width: 20%;
+  position: absolute;
+  top: 200px;
+  left: 700px;
+}
+
+.row {
+  background-image: url(../../../public/glassesImage/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
